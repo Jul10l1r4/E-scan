@@ -33,4 +33,4 @@ for port in range(0 , 1001):
     elif code ==0 :
            print ("\033[1;33m "+str(port)+"\033[0;32m    open   \033[1;33m"+str(pt[port]+"\033[0m"));
 
-print "\n\033[1;34mEnd Scanning\033[0m"
+print ("\n\033[1;34mEnd Scanning\033[0m")
