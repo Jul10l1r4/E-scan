@@ -1,6 +1,9 @@
-# E-scan
-Versão 3+ do python, projeto original. Lembrando caso queira executa-lo faça <br/>
+# Escaner de endereço 🕵🏾‍
 
-<code>
-    $ python3 escan.py /*    E insira o link ou o endereço o endereço ipv4 */
-</code>
+Escaneia endereços ips, na versão `ipv4`, ou endereços como `www.exemplo.com`.
+
+## Versão do python 👷🏿
+
+Essa é a versão `3+` do python, onde ele cria uma lista de portas e verifica qual a porta esta aberta.
+
+> Ei vacilão achou algum erro? reporte!
