@@ -24,7 +24,7 @@ E... fim 🕶, vai ser criado uma pasta dependendo de qual método você usou, �
 
 ## Esse projeto é baseado em outro
 
-Conheça o projeto onde me baseei [#Eloiindie](https://github.com/eloiindie/Portscan), esse projeto é afim de compatibilidade com a versão 3 ou mais do python.
+Conheça o projeto onde me baseei [@Eloiindie](https://github.com/eloiindie/Portscan), esse projeto é afim de compatibilidade com a versão 3 ou mais do python.
 
 ## Esse projeto é livre sob liceça GPL-3 🐏
  Use e abuse, cite-me e estará tudo certo 😸. Leia sobre a licença [GPL-3](https://www.gnu.org/licenses/gpl-3.0-standalone.html)
