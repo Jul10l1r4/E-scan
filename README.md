@@ -1,5 +1,7 @@
 # Escaner de endereço 🕵🏾‍
 
+> Projeto alfa [@Jul10l1r4](https://notabug.org/Jul10l1r4/E-scan)
+
 Escaneia endereços ips, na versão `ipv4`, ou endereços como `www.exemplo.com`.
 
 ## Versão do python 👷🏿
