@@ -1,9 +1,6 @@
 # -*- encoding: utf-8 -*-
-#_author_Fernando-Eloi
-import socket
-import subprocess
-
-subprocess.Popen("clear")
+#_author_Julio-Lira
+import socke
 
 print("""\033[1;31m
   ______                          
