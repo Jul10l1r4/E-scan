@@ -1,6 +1,6 @@
 # -*- encoding: utf-8 -*-
 #_author_Julio-Lira
-import socke
+import socket
 
 print("""\033[1;31m
   ______                          
